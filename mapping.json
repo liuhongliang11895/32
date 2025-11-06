@@ -6,8 +6,8 @@
     { "url": "https://s.url99.me/u9vaxcnp", "active": false, "weight": 1 },
     { "url": "https://s.url99.me/4f44wh0w", "active": false, "weight": 1 },
     { "url": "https://s.url99.me/ov4qwq6b", "active": false, "weight": 1 },
-    { "url": "https://s.url99.me/reqt4yda", "active": true, "weight": 1 },
-    { "url": "https://s.url99.me/o41lrzcw", "active": true, "weight": 1 },
+    { "url": "https://s.url99.me/reqt4yda", "active": false, "weight": 1 },
+    { "url": "https://s.url99.me/o41lrzcw", "active": false, "weight": 1 },
     { "url": "https://s.url99.me/01uja4mx", "active": false, "weight": 1 },
     { "url": "https://s.url99.me/aofefcc9", "active": false, "weight": 1 },
     { "url": "https://s.url99.me/yomeakyu", "active": false, "weight": 1 },
@@ -19,6 +19,7 @@
 
 
 }
+
 
 
 
